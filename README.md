@@ -1,7 +1,19 @@
 <p align="center">
-  <img src="assets/Deby-Home.png" alt="Deby Agent OS" width="100%">
+  <img src="assets/Deby-Home.png" alt="Deby Agent OS">
 </p>
 
+<h1 align="center">Deby Agent OS</h1>
+
+<p align="center">
+  Building Deby — A Local AI Agent Operating System
+</p>
+
+<p align="center">
+  🇺🇸 English •
+  <a href="README_TR.md">🇹🇷 Türkçe</a>
+</p>
+
+---
 # Deby
 Deby — Local AI Agent Operating System
 
