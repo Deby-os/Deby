@@ -1,7 +1,10 @@
 <p align="center">
   <img src="assets/Deby-Home.png" alt="Deby Agent OS" width="100%">
 </p>
-
+<p align="center">
+  🇺🇸 <a href="README.md">English</a> •
+  🇹🇷 Türkçe
+</p>
 # Deby
 
 ## Selamünaleyküm
