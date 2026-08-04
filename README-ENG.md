@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/deby-home.png" alt="Deby Agent OS" width="100%">
+  <img src="assets/Deby-Home.png" alt="Deby Agent OS" width="100%">
 </p>
 
 # Deby
