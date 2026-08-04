@@ -333,3 +333,26 @@ Ya da yalnızca bu yazıyı okuyarak bana zaman ayıran herkese...
 Teşekkür ederim.
 
 Sağ olun.
+---
+
+# Deby Projesine Destek
+
+Deby'nin geliştirilmesini desteklemek ve yerel yapay zekâ modelleriyle tamamlanmasına katkı sağlamak isterseniz aşağıdaki banka hesabını kullanabilirsiniz.
+
+## Banka Bilgileri
+
+**Hesap Sahibi:** Sedat Türkmen
+
+**Banka:** VakıfBank
+
+**IBAN:** **TR54 0001 5001 5800 7373 8207 27**
+
+Havale / EFT açıklama kısmına dilerseniz **"Destek"** veya **"Hediye"** notunu ekleyebilirsiniz.
+
+Bağış yapmadan önce proje hakkında bilgi almak veya doğrulama yapmak isterseniz benimle iletişime geçebilirsiniz.
+
+📧 **debysistem@gmail.com**
+
+Miktarı ne olursa olsun her katkı, Deby'nin tamamlanmasına bir adım daha yaklaştıracaktır.
+
+Desteğiniz ve güveniniz için teşekkür ederim.
