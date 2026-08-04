@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/deby-home.png" alt="Deby Agent OS" width="100%">
 </p>
+
 # Deby
 Deby — Local AI Agent Operating System
 
